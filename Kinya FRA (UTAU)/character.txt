@@ -1,3 +1,0 @@
-name=Kinya FRA
-author=Kinya
-voicer=Kinya
